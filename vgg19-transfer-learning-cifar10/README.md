@@ -1,5 +1,7 @@
 # VGG19 Transfer Learning — CIFAR-10
 
+→ **[View the executed notebook (HTML)](./transfer_learning_vgg19.html)**
+
 Feature-extraction transfer learning: a pretrained VGG19 (ImageNet weights) with its
 convolutional base frozen and a new classifier trained on top, to classify CIFAR-10's
 10 classes.
