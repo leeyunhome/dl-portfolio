@@ -86,8 +86,6 @@ Course exercise, ported to a local GPU server), kept as a study log alongside th
 - Before publishing adapted course material, checked the source repository's actual
   `LICENSE` file (MIT here) rather than assuming — MIT permits reuse/redistribution as
   long as the original copyright notice is kept, which is why this repo carries the
-  original license text.
-- Keeping this portfolio repo fully separate from the company work repo (`en683_lpr`)
   avoided any risk of exposing company-internal infrastructure or product details.
 
 ## Tooling notes
